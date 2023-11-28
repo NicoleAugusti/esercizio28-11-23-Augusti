@@ -49,12 +49,12 @@ let agenda = {
 
 }
 
-/*agenda.mostraTuttiContatti();
+agenda.mostraTuttiContatti();
 
 agenda.aggiungiNuovoContatto();
 
 agenda.mostraSingoloContatto(2);
 
-agenda.cancellaSingoloContatto(1,1);*/
+agenda.cancellaSingoloContatto(1,1);
 
 agenda.modificaContattoEsistente(1, "luca bello");
